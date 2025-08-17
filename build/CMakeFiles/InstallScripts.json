@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/dj-bob/cpp/bot/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
